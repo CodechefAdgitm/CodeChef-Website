@@ -3,11 +3,15 @@ body {
   font-family: "Your Preferred Font", sans-serif;
 }
 
+.navbar{
+  height: 7vh;
+}
+
 header {
   display: flex;
   align-items: center;
   padding: 36px 33px 16px;
-  background-color: black;
+  /* background-color: black; */
   color: white;
 }
 
