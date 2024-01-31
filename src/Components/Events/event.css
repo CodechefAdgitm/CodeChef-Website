@@ -1,0 +1,37 @@
+body {
+  background: url("Images/bg1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+main {
+  padding: 10%;
+  margin: 2%;
+}
+main h3 {
+  color: yellow;
+  font-size: 2rem;
+}
+main h1 {
+  padding-left: 10%;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px; /* 60px */
+  width: 50%;
+}
+main p {
+  padding-left: 15%;
+  color: #e6e6e6;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 180%; /* 36px */
+  width: 591px;
+}
+main img{
+  padding: 2%;
+  float: right;
+}
