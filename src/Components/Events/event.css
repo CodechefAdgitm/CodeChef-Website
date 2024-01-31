@@ -9,12 +9,12 @@ main {
 }
 main h3 {
   color: yellow;
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 main h1 {
   padding-left: 10%;
   color: #fff;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 50px;
   font-style: normal;
   font-weight: 700;
@@ -24,7 +24,7 @@ main h1 {
 main p {
   padding-left: 15%;
   color: #e6e6e6;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 300;
