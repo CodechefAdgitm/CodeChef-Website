@@ -12,7 +12,7 @@ function Navbar() {
       <ul>
        <li><a href="#"  rel="noopener noreferrer">Home</a></li>
        <li><a href="/About"  rel="noopener noreferrer">About Us</a></li>
-       <li><a href="#"  rel="noopener noreferrer">Our Team</a></li>
+       <li><a href="/Team"  rel="noopener noreferrer">Our Team</a></li>
        <li><a href="#"  rel="noopener noreferrer">Department</a></li>
        <li><a href="#"  rel="noopener noreferrer">Events</a></li>
         <li><a href="#"  rel="noopener noreferrer">Contact US</a></li>
